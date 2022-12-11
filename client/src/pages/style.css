@@ -1,0 +1,10 @@
+.wrapper{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 12px;
+    font-style: normal;
+    letter-spacing: 0.3px;
+    line-height: 15px;
+    color: #5f5f5f;
+    text-transform: uppercase;
+}
